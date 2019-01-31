@@ -23,17 +23,43 @@
     <string name="old_password">Old Password</string>
     <string name="new_password">New Password</string>
     <string name="submit">Submit</string>
-    <string name="terms_and_conditions">By registering on Teachable, you agree with our <u>Terms and Conditions</u>.</string>
+    <string name="terms_and_conditions">By registering on Teachable, you agree with our <u>
+                                        Terms and Conditions</u>.</string>
     <string name="reset_your_password">Reset Your Password</string>
-    <string name="lost_password_message">"Sorry you lost your password, let/'s help you regain access"
+    <string name="lost_password_text">"Sorry you lost your password, let/'s help you regain access"
                                         to your account. How should we send you a login code</string>
     <string name="sms">SMS</string>
     <string name="email">Email</string>
     <string name="reset_password">Reset Password</string>
-    <string name="enter_code_message">We just sent you a reset code. Enter your code below:</string>
+    <string name="enter_code_text">We just sent you a reset code. Enter your code below:</string>
     <string name="reset_code">Reset Code</string>
-    <string name="resend_code">"Didn/'t get the code? Resend Code"</string>
+    <string name="resend_code">"Didn'/t get the code? Resend Code</string>
+    <string name="verification_code_text">We just sent you a verification code. Enter your code below:</string>
+    <string name="search">Search</string>
 
-
+    <string name="delete_account">Delete Account</string>
+    <string name="irreversible_text">This is irreversible. Deleting your account removes it from
+                                Teachable forever</string>
+    <string name="title_activity_hamburger">Hamburger</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="tutors">Tutors</string>
+    <string name="schools">Schools</string>
+    <string name="courses">Courses</string>
+    <string name="messages">Messages</string>
+    <string name="my_profile">My Profile</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="john_doe">John Doe</string>
+    <string name="change_password">Change Password</string>
+    <string name="upgrade_to_premium">Upgrade To Premium</string>
+    <string name="delete_my_account">Delete My Account</string>
+    <string name="verify_your_account">Verify Your Account</string>
+    <string name="wrong_verification_text">Wrong Verification Code. Please check your code</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="verify_account">Verify Account</string>
 
 </resources>
