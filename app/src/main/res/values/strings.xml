@@ -36,6 +36,13 @@
     <string name="resend_code">"Didn'/t get the code? Resend Code</string>
     <string name="verification_code_text">We just sent you a verification code. Enter your code below:</string>
     <string name="search">Search</string>
+    <string name="name_of_school">Whatever High School</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="name_of_state">Whatever State</string>
+    <string name="verify_your_identity">In order to help us verify your identity we would need to
+                                        send you a verification code. Please select how you want
+                                        to receive your code</string>
+    <string name="learning_is_awesome">learning is awesome with an awesome teacher</string>
 
     <string name="delete_account">Delete Account</string>
     <string name="irreversible_text">This is irreversible. Deleting your account removes it from
